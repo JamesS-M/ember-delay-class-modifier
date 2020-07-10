@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/JamesS-M/ember-delay-class.svg?branch=master)](https://travis-ci.com/JamesS-M/ember-delay-class)
+
 ember-delay-class
 ==============================================================================
 
