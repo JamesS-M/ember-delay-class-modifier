@@ -1,13 +1,13 @@
 {
   "name": "ember-delay-class",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "Provides a modifier which can delay adding/removing an element's class.",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/JamesS-M/ember-delay-class",
   "license": "MIT",
-  "author": "",
+  "author": "JamesS-M",
   "directories": {
     "doc": "doc",
     "test": "tests"
