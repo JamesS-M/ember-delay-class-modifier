@@ -5,7 +5,7 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "https://github.com/JamesS-M/ember-delay-class",
+  "repository": "https://github.com/JamesS-M/ember-delay-class-modifier",
   "license": "MIT",
   "author": "JamesS-M",
   "directories": {
