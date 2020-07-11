@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/JamesS-M/ember-delay-class.svg?branch=master)](https://travis-ci.com/JamesS-M/ember-delay-class)
+[![Ember Observer Score](https://emberobserver.com/badges/ember-delay-class.svg)](https://emberobserver.com/addons/ember-delay-class)
 
 ember-delay-class
 ==============================================================================
