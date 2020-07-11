@@ -1,1 +1,1 @@
-export { default } from 'ember-delay-class/modifiers/delay-class-remove';
+export { default } from 'ember-delay-class-modifier/modifiers/delay-class-remove';
