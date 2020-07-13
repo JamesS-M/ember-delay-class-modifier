@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "Provides a modifier which delays adding/removing an element's class.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-modifier",
+    "ember-element-modifier"
   ],
   "repository": "https://github.com/JamesS-M/ember-delay-class-modifier",
   "license": "MIT",

@@ -3,7 +3,7 @@
 ## Installation
 
 * `git clone <repository-url>`
-* `cd ember-delay-class`
+* `cd ember-delay-class-modifier`
 * `npm install`
 
 ## Linting
