@@ -1,6 +1,6 @@
 {
   "name": "ember-delay-class-modifier",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Provides a modifier which delays adding/removing an element's class.",
   "keywords": [
     "ember-addon",
